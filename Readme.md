@@ -1,3 +1,3 @@
 # hallo
 welcome to my reeepoooo
-this is my repo desuu
+this repo is bout my curse cloud devops and i am gonna do all the git related tasks in this repo only.....
